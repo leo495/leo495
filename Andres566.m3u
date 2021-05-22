@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1, UNITEL
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8HnZvTa-4RQnENZZvwgzuk)/dm/3/x7wzxiw/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1, PAT
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w1746242346.m3u8
+
+##EXTINF:-1, universal
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=2gTgN5jkruBHr9tdKtPahg&e=1621725306
